@@ -136,7 +136,7 @@
     <dependency>
       <groupId>com.facebook.react</groupId>
       <artifactId>react-native-video</artifactId>
-      <version>5.1.1-jitsi-8711917</version>
+      <version>5.2.0-jitsi-11101599</version>
     </dependency>
     <dependency>
       <groupId>com.facebook.react</groupId>
